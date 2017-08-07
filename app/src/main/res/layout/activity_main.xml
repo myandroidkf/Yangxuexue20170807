@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yangxuexue20170807.MainActivity">
+
+<com.example.yangxuexue20170807.MyTitleBar
+    android:id="@+id/mytitlebar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:ZTnarong="自定义标题"
+    app:ZTbackcolor="#ff0"
+    app:ZTcolor="#000"
+    app:ZTsize="25"
+    app:zwzbackcolor="#f0f0"
+    app:zwzcolor="#ffff"
+    app:zwznarong="返回"
+    app:zwzsize="20"
+    app:ywzbackcolor="#f0f0"
+    app:ywzcolor="#ffff"
+    app:ywznarong="更多"
+    app:ywzsize="20"
+    />
+
+</android.support.constraint.ConstraintLayout>

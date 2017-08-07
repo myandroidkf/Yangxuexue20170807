@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTitleBar">
+        <!--标题文字-->
+       <attr name="ZTcolor" format="color"/>
+        <attr name="ZTsize" format="integer"/>
+        <attr name="ZTnarong" format="string"/>
+        <attr name="ZTbackcolor" format="color"/>
+        <!--左按钮-->
+        <attr name="zwzcolor" format="color"/>
+        <attr name="zwzsize" format="integer"/>
+        <attr name="zwznarong" format="string"/>
+        <attr name="zwzbackcolor" format="color"/>
+        <!--右按钮-->
+        <attr name="ywzcolor" format="color"/>
+        <attr name="ywzsize" format="integer"/>
+        <attr name="ywznarong" format="string"/>
+        <attr name="ywzbackcolor" format="color"/>
+    </declare-styleable>
+    
+    
+</resources>
